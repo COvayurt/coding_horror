@@ -4180,68 +4180,14 @@
 ## Athlon 64: Developer's Choice
   https://blog.codinghorror.com/athlon-64-developers-choice/
 
-## My Buddy, Regex
-  https://blog.codinghorror.com/my-buddy-regex/
-
-## Edit and Continue
-  https://blog.codinghorror.com/edit-and-continue/
-
-## Commandos, Infantry, and Police
-  https://blog.codinghorror.com/commandos-infantry-and-police/
-
-## Hungarian Wars
-  https://blog.codinghorror.com/hungarian-wars/
-
-## Visual Diff Tools
-  https://blog.codinghorror.com/visual-diff-tools/
-
 ## Code Complete 2: The Revenge
   https://blog.codinghorror.com/code-complete-2-the-revenge/
-
-## Death to the Dialog Box
-  https://blog.codinghorror.com/death-to-the-dialog-box/
-
-## UNIX will never be usable
-  https://blog.codinghorror.com/unix-will-never-be-usable/
-
-## What's worse than a Bad Error Message?
-  https://blog.codinghorror.com/whats-worse-than-a-bad-error-message/
-
-## Debugging ASPNET_WP in Production
-  https://blog.codinghorror.com/debugging-aspnet_wp-in-production/
-
-## User-Friendly Exception Handling
-  https://blog.codinghorror.com/user-friendly-exception-handling/
-
-## The Tyranny of ElseIf
-  https://blog.codinghorror.com/the-tyranny-of-elseif/
-
-## Multiple Monitors and Productivity
-  https://blog.codinghorror.com/multiple-monitors-and-productivity/
 
 ## What if software was never free?
   https://blog.codinghorror.com/what-if-software-was-never-free/
 
-## About... More About Box
-  https://blog.codinghorror.com/about-more-about-box/
-
-## Revenge of Notepad
-  https://blog.codinghorror.com/revenge-of-notepad/
-
 ## The Tivo Remote
   https://blog.codinghorror.com/the-tivo-remote/
-
-## We Are Morons: a quick look at the Win2k source
-  https://blog.codinghorror.com/we-are-morons-a-quick-look-at-the-win2k-source/
-
-## .NET Compiler Performance
-  https://blog.codinghorror.com/net-compiler-performance/
-
-## About... The About Box
-  https://blog.codinghorror.com/about-the-about-box/
-
-## In the beginning, there was Movable Type
-  https://blog.codinghorror.com/in-the-beginning-there-was-movable-type/
 
 ## Recommended Reading for Developers
   https://blog.codinghorror.com/recommended-reading-for-developers/
