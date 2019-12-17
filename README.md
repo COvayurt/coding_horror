@@ -4051,32 +4051,11 @@
 ## Using the Command Window
   https://blog.codinghorror.com/using-the-command-window/
 
-## The Wisdom of Sells
-  https://blog.codinghorror.com/the-wisdom-of-sells/
-
-## Skill Disparities in Programming
-  https://blog.codinghorror.com/skill-disparities-in-programming/
-
 ## Development is Inherently Wicked
   https://blog.codinghorror.com/development-is-inherently-wicked/
 
-## Loose Typing Sinks Ships
-  https://blog.codinghorror.com/loose-typing-sinks-ships/
-
 ## Unbreakable Links Revisited
   https://blog.codinghorror.com/unbreakable-links-revisited/
-
-## You Think You Hate Mondays?
-  https://blog.codinghorror.com/you-think-you-hate-mondays/
-
-## The Incredible LinkTron 5000(tm)!
-  https://blog.codinghorror.com/the-incredible-linktron-5000tm/
-
-## Java vs. .NET RegEx performance
-  https://blog.codinghorror.com/java-vs-net-regex-performance/
-
-## Net.WebClient and GZip
-  https://blog.codinghorror.com/netwebclient-and-gzip/
 
 ## Sniff this!
   https://blog.codinghorror.com/sniff-this/
@@ -4093,9 +4072,6 @@
 ## HTTP Compression and IIS 6.0
   https://blog.codinghorror.com/http-compression-and-iis-6-0/
 
-## User Friendly ASP.NET Exception Handling
-  https://blog.codinghorror.com/user-friendly-aspnet-exception-handling/
-
 ## The Joy of Deletion
   https://blog.codinghorror.com/the-joy-of-deletion/
 
@@ -4108,17 +4084,11 @@
 ## Throwing better SOAP exceptions
   https://blog.codinghorror.com/throwing-better-soap-exceptions/
 
-## GUI patterns
-  https://blog.codinghorror.com/gui-patterns/
-
 ## Pragmatic Programming
   https://blog.codinghorror.com/pragmatic-programming/
 
 ## Why I'm The Best Programmer In The World*
   https://blog.codinghorror.com/why-im-the-best-programmer-in-the-world/
-
-## Task Manager Extension
-  https://blog.codinghorror.com/task-manager-extension/
 
 ## Performance: Remoting vs. Web Services
   https://blog.codinghorror.com/performance-remoting-vs-web-services/
@@ -4135,35 +4105,11 @@
 ## The Popularity Tax
   https://blog.codinghorror.com/the-popularity-tax/
 
-## Comment Spam
-  https://blog.codinghorror.com/comment-spam/
-
-## Inherits Nothing
-  https://blog.codinghorror.com/inherits-nothing/
-
-## Grand Unification Theory
-  https://blog.codinghorror.com/grand-unification-theory/
-
-## Just Say No to Finalization!
-  https://blog.codinghorror.com/just-say-no-to-finalization/
-
 ## DEVELOPERS^3
   https://blog.codinghorror.com/developers3/
 
-## Rethrowing Exceptions
-  https://blog.codinghorror.com/rethrowing-exceptions/
-
 ## Go, Monkey!
   https://blog.codinghorror.com/go-monkey/
-
-## VB vs. C# -- FIGHT!
-  https://blog.codinghorror.com/vb-vs-c-fight/
-
-## VS.NET 2003 VB outlining broken
-  https://blog.codinghorror.com/vsnet-2003-vb-outlining-broken/
-
-## Virtual PC 2004
-  https://blog.codinghorror.com/virtual-pc-2004/
 
 ## Why Objects Suck
   https://blog.codinghorror.com/why-objects-suck/
@@ -4171,23 +4117,11 @@
 ## Coding Slave
   https://blog.codinghorror.com/coding-slave/
 
-## I'm smarter than the Runtime!
-  https://blog.codinghorror.com/im-smarter-than-the-runtime/
-
 ## Putting the Science Back Into Computer Science
   https://blog.codinghorror.com/putting-the-science-back-into-computer-science/
 
-## Athlon 64: Developer's Choice
-  https://blog.codinghorror.com/athlon-64-developers-choice/
-
 ## Code Complete 2: The Revenge
   https://blog.codinghorror.com/code-complete-2-the-revenge/
-
-## What if software was never free?
-  https://blog.codinghorror.com/what-if-software-was-never-free/
-
-## The Tivo Remote
-  https://blog.codinghorror.com/the-tivo-remote/
 
 ## Recommended Reading for Developers
   https://blog.codinghorror.com/recommended-reading-for-developers/
