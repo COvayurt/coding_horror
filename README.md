@@ -1135,11 +1135,8 @@
 ## Your Session Has Timed Out
   https://blog.codinghorror.com/your-session-has-timed-out/
 
-## Revisiting &amp;quot;How Much Power Does My Laptop Really Use&amp;quot;?
+## Revisiting "How Much Power Does My Laptop Really Use"?
   https://blog.codinghorror.com/revisiting-how-much-power-does-my-laptop-really-use/
-
-## Donating $5,000 to .NET Open Source
-  https://blog.codinghorror.com/donating-5000-to-net-open-source/
 
 ## We Don't Use Software That Costs Money Here
   https://blog.codinghorror.com/we-dont-use-software-that-costs-money-here/
@@ -1165,7 +1162,7 @@
 ## Let That Be a Lesson To You, Son: Never Upgrade.
   https://blog.codinghorror.com/let-that-be-a-lesson-to-you-son-never-upgrade/
 
-## Revisiting &amp;quot;Keyboard vs. The Mouse, pt 1&amp;quot;
+## Revisiting "Keyboard vs. The Mouse, pt 1"
   https://blog.codinghorror.com/revisiting-keyboard-vs-the-mouse-pt-1/
 
 ## Just a Little Bit of Software History Repeating
@@ -1822,9 +1819,6 @@
 ## JavaScript and HTML: Forgiveness by Default
   https://blog.codinghorror.com/javascript-and-html-forgiveness-by-default/
 
-## Coding Horror on .NET Rocks
-  https://blog.codinghorror.com/coding-horror-on-net-rocks/
-
 ## How Not To Write a Technical Book
   https://blog.codinghorror.com/how-not-to-write-a-technical-book/
 
@@ -2025,9 +2019,6 @@
 
 ## Shipping Isn't Enough
   https://blog.codinghorror.com/shipping-isnt-enough/
-
-## Identicons for .NET
-  https://blog.codinghorror.com/identicons-for-net/
 
 ## A World of Endless Advertisements
   https://blog.codinghorror.com/a-world-of-endless-advertisements/
@@ -2707,9 +2698,6 @@
 ## Everything You Know Will Be Obsolete in Five Years
   https://blog.codinghorror.com/everything-you-know-will-be-obsolete-in-five-years/
 
-## Microsoft Doesn't Trust .NET
-  https://blog.codinghorror.com/microsoft-doesnt-trust-net/
-
 ## Programmers as Human Beings
   https://blog.codinghorror.com/programmers-as-human-beings/
 
@@ -2773,9 +2761,6 @@
 ## Darwinia
   https://blog.codinghorror.com/darwinia/
 
-## Choosing between .NET Pepsi and .NET Coke
-  https://blog.codinghorror.com/choosing-between-net-pepsi-and-net-coke/
-
 ## Colorization Required
   https://blog.codinghorror.com/colorization-required/
 
@@ -2802,9 +2787,6 @@
 
 ## The Day Performance Didn't Matter Any More
   https://blog.codinghorror.com/the-day-performance-didnt-matter-any-more/
-
-## .NET Pet Shop 4
-  https://blog.codinghorror.com/net-pet-shop-4/
 
 ## Revisiting Edit and Continue
   https://blog.codinghorror.com/revisiting-edit-and-continue/
@@ -2905,9 +2887,6 @@
 ## Web Typography Hack: sIFR
   https://blog.codinghorror.com/web-typography-hack-sifr/
 
-## The CSS Zen Garden and ASP.NET
-  https://blog.codinghorror.com/the-css-zen-garden-and-asp-net/
-
 ## Automated Hard Drive Defragmentation
   https://blog.codinghorror.com/automated-hard-drive-defragmentation/
 
@@ -2944,9 +2923,6 @@
 ## Animal, Vegetable, or Mineral?
   https://blog.codinghorror.com/animal-vegetable-or-mineral/
 
-## A Stopwatch Class for .NET 1.1
-  https://blog.codinghorror.com/a-stopwatch-class-for-net-11/
-
 ## The History of Wumpus
   https://blog.codinghorror.com/the-history-of-wumpus/
 
@@ -2967,9 +2943,6 @@
 
 ## In praise of Beyond Compare
   https://blog.codinghorror.com/in-praise-of-beyond-compare/
-
-## C#, VB.NET, and echoing strings in the VS.NET Immediate Window
-  https://blog.codinghorror.com/c-vbnet-and-echoing-strings-in-the-vsnet-immediate-window/
 
 ## Dysfunctional Specifications
   https://blog.codinghorror.com/dysfunctional-specifications/
@@ -3037,15 +3010,6 @@
 ## Avoiding Booleans
   https://blog.codinghorror.com/avoiding-booleans/
 
-## Copying Visual Studio Code Snippets to the Clipboard as HTML
-  https://blog.codinghorror.com/copying-visual-studio-code-snippets-to-the-clipboard-as-html/
-
-## Google search VS.NET macro
-  https://blog.codinghorror.com/google-search-vsnet-macro/
-
-## The Cognitive Style of Visual Studio
-  https://blog.codinghorror.com/the-cognitive-style-of-visual-studio/
-
 ## The Cost of Leaving Your PC On
   https://blog.codinghorror.com/the-cost-of-leaving-your-pc-on/
 
@@ -3067,9 +3031,6 @@
 ## Unit Testing vs. Beta Testing
   https://blog.codinghorror.com/unit-testing-vs-beta-testing/
 
-## Code Snippets in VS.NET 2005
-  https://blog.codinghorror.com/code-snippets-in-vsnet-2005/
-
 ## Media Center 2005 adds Non-Linear Stretch
   https://blog.codinghorror.com/media-center-2005-adds-non-linear-stretch/
 
@@ -3078,9 +3039,6 @@
 
 ## Microchip Easter Eggs
   https://blog.codinghorror.com/microchip-easter-eggs/
-
-## Wrangling ASP.NET Viewstate
-  https://blog.codinghorror.com/wrangling-aspnet-viewstate/
 
 ## The Best of Creative Computing
   https://blog.codinghorror.com/the-best-of-creative-computing/
@@ -3240,10 +3198,7 @@
 
 ## Consolas and ClearType
   https://blog.codinghorror.com/consolas-and-cleartype/
-
-## Option Strict and Option Explicit in VB.NET 2005
-  https://blog.codinghorror.com/option-strict-and-option-explicit-in-vbnet-2005/
-
+  
 ## Does Having The Best Programmers Really Matter?
   https://blog.codinghorror.com/does-having-the-best-programmers-really-matter/
 
@@ -3310,9 +3265,6 @@
 ## Martin Fowler hates XSLT too
   https://blog.codinghorror.com/martin-fowler-hates-xslt-too/
 
-## VS.NET and Code Regions
-  https://blog.codinghorror.com/vsnet-and-code-regions/
-
 ## Bayesian Kryptonite - spoofed email
   https://blog.codinghorror.com/bayesian-kryptonite-spoofed-email/
 
@@ -3343,17 +3295,11 @@
 ## The Pontiac Aztek and the Perils of Design by Committee
   https://blog.codinghorror.com/the-pontiac-aztek-and-the-perils-of-design-by-committee/
 
-## Where Are The .NET Blogging Solutions?
-  https://blog.codinghorror.com/where-are-the-net-blogging-solutions/
-
 ## Formatting HTML code snippets with Ten Ton Wrecking Balls
   https://blog.codinghorror.com/formatting-html-code-snippets-with-ten-ton-wrecking-balls/
 
 ## Phantom DOS files in my root
   https://blog.codinghorror.com/phantom-dos-files-in-my-root/
-
-## Visual Studio .NET 2003 and 2005 Keyboard Shortcuts
-  https://blog.codinghorror.com/visual-studio-net-2003-and-2005-keyboard-shortcuts/
 
 ## Flickr Hacks
   https://blog.codinghorror.com/flickr-hacks/
@@ -3381,9 +3327,6 @@
 
 ## Google Hardware circa 1999
   https://blog.codinghorror.com/google-hardware-circa-1999/
-
-## Troubleshooting .NET performance using Peanut Butter
-  https://blog.codinghorror.com/troubleshooting-net-performance-using-peanut-butter/
 
 ## Incompetence Considered Harmful
   https://blog.codinghorror.com/incompetence-considered-harmful/
@@ -3499,9 +3442,6 @@
 ## Determining Build Date the hard way
   https://blog.codinghorror.com/determining-build-date-the-hard-way/
 
-## ASP.NET NTLM Authentication - is it worth it?
-  https://blog.codinghorror.com/aspnet-ntlm-authentication-is-it-worth-it/
-
 ## Tabbed Browsing and MDI-SDI-WTF
   https://blog.codinghorror.com/tabbed-browsing-and-mdi-sdi-wtf/
 
@@ -3556,14 +3496,8 @@
 ## If You Like Regular Expressions So Much, Why Don't You Marry Them?
   https://blog.codinghorror.com/if-you-like-regular-expressions-so-much-why-dont-you-marry-them/
 
-## BetaBrite LED Sign API completed
-  https://blog.codinghorror.com/betabrite-led-sign-api-completed/
-
 ## Make Mine XCOPY
   https://blog.codinghorror.com/make-mine-xcopy/
-
-## Because IE6 is the new Netscape 4.7x
-  https://blog.codinghorror.com/because-ie6-is-the-new-netscape-47x/
 
 ## Captchas Compared and Critiqued
   https://blog.codinghorror.com/captchas-compared-and-critiqued/
@@ -3583,9 +3517,6 @@
 ## Logging TraceListener Improved
   https://blog.codinghorror.com/logging-tracelistener-improved/
 
-## The Slow Brain Death of VB.NET
-  https://blog.codinghorror.com/the-slow-brain-death-of-vb-net/
-
 ## Paging Dr. Dotnetsky...
   https://blog.codinghorror.com/paging-dr-dotnetsky/
 
@@ -3598,7 +3529,7 @@
 ## Logging TraceListener
   https://blog.codinghorror.com/logging-tracelistener/
 
-## On Software &quot;Engineering&quot;
+## On Software "Engineering"
   https://blog.codinghorror.com/on-software-engineering/
 
 ## Notepad Strikes Back
@@ -3619,15 +3550,6 @@
 ## Managing with Trust
   https://blog.codinghorror.com/managing-with-trust/
 
-## iPod Hacking via Modem
-  https://blog.codinghorror.com/ipod-hacking-via-modem/
-
-## Remotely Managing Remote Desktop
-  https://blog.codinghorror.com/remotely-managing-remote-desktop/
-
-## Pentium-M Home Theater PC
-  https://blog.codinghorror.com/pentium-m-home-theater-pc/
-
 ## Why Is Forever
   https://blog.codinghorror.com/why-is-forever/
 
@@ -3637,20 +3559,8 @@
 ## Is your PC boring?
   https://blog.codinghorror.com/is-your-pc-boring/
 
-## Multiple LCDs
-  https://blog.codinghorror.com/multiple-lcds/
-
-## Improved Unhandled Exception behavior in .NET 2.0
-  https://blog.codinghorror.com/improved-unhandled-exception-behavior-in-net-20/
-
-## The Floppy Drive Must Die
-  https://blog.codinghorror.com/the-floppy-drive-must-die/
-
 ## Regex use vs. Regex abuse
   https://blog.codinghorror.com/regex-use-vs-regex-abuse/
-
-## Beating CAPTCHAs with .NET code
-  https://blog.codinghorror.com/beating-captchas-with-net-code/
 
 ## A need for speed-- and silence
   https://blog.codinghorror.com/a-need-for-speed-and-silence/
@@ -3661,26 +3571,14 @@
 ## Keyboarding
   https://blog.codinghorror.com/keyboarding/
 
-## ASP.NET About Box (Page)
-  https://blog.codinghorror.com/aspnet-about-box-page/
-
-## Virtual PC 2004 tips
-  https://blog.codinghorror.com/virtual-pc-2004-tips/
-
 ## Ivory Tower Development
   https://blog.codinghorror.com/ivory-tower-development/
 
 ## Let the IDE do it
   https://blog.codinghorror.com/let-the-ide-do-it/
 
-## Wintellect ASP.NET FAQ
-  https://blog.codinghorror.com/wintellect-aspnet-faq/
-
 ## Level 5 means never having to say you're sorry
   https://blog.codinghorror.com/level-5-means-never-having-to-say-youre-sorry/
-
-## Resharper for VB.NET
-  https://blog.codinghorror.com/resharper-for-vbnet/
 
 ## Console apps and AppDomain.CurrentDomain.UnhandledException
   https://blog.codinghorror.com/console-apps-and-appdomain-currentdomain-unhandledexception/
@@ -3730,14 +3628,8 @@
 ## The Reality of Failure
   https://blog.codinghorror.com/the-reality-of-failure/
 
-## Net.WebClient and Deflate
-  https://blog.codinghorror.com/net-webclient-and-deflate/
-
 ## The real cost of performance
   https://blog.codinghorror.com/the-real-cost-of-performance/
-
-## WebFileManager updated
-  https://blog.codinghorror.com/webfilemanager-updated/
 
 ## MAME Cocktail Arcade
   https://blog.codinghorror.com/mame-cocktail-arcade/
@@ -3765,9 +3657,6 @@
 
 ## 2005: Twenty years of Windows
   https://blog.codinghorror.com/2005-twenty-years-of-windows/
-
-## DVD Ripping and Nero Recode
-  https://blog.codinghorror.com/dvd-ripping-and-nero-recode/
 
 ## Threading, Concurrency, and the Most Powerful Psychokinetic Explosive in the Universe
   https://blog.codinghorror.com/threading-concurrency-and-the-most-powerful-psychokinetic-explosive-in-the-univ/
@@ -3814,9 +3703,6 @@
 ## This is your Anti-Productivity Pod
   https://blog.codinghorror.com/this-is-your-anti-productivity-pod/
 
-## Visual Diff Tools Revisited
-  https://blog.codinghorror.com/visual-diff-tools-revisited/
-
 ## Blue Collar Software Development
   https://blog.codinghorror.com/blue-collar-software-development/
 
@@ -3829,35 +3715,14 @@
 ## The Magical Build Machine
   https://blog.codinghorror.com/the-magical-build-machine/
 
-## Universally Annoying Remotes
-  https://blog.codinghorror.com/universally-annoying-remotes/
-
 ## Top Tens
   https://blog.codinghorror.com/top-tens/
 
 ## Programming for Luddites
   https://blog.codinghorror.com/programming-for-luddites/
 
-## UI Follies, Volume II
-  https://blog.codinghorror.com/ui-follies-volume-ii/
-
-## Classic ASP
-  https://blog.codinghorror.com/classic-asp/
-
 ## Because I love the smell of compilation in the morning
   https://blog.codinghorror.com/because-i-love-the-smell-of-compilation-in-the-morning/
-
-## Custom AssemblyInfo Attributes
-  https://blog.codinghorror.com/custom-assemblyinfo-attributes/
-
-## Populate your AssemblyInfo
-  https://blog.codinghorror.com/populate-your-assemblyinfo/
-
-## WebFileManager
-  https://blog.codinghorror.com/webfilemanager/
-
-## Giving of thanks, and tech support
-  https://blog.codinghorror.com/giving-of-thanks-and-tech-support/
 
 ## On American Programmers
   https://blog.codinghorror.com/on-american-programmers/
@@ -3865,50 +3730,20 @@
 ## Trapped in a Bitmapped World
   https://blog.codinghorror.com/trapped-in-a-bitmapped-world/
 
-## Full Threaded Shellicious
-  https://blog.codinghorror.com/full-threaded-shellicious/
-
 ## Good Programmers Get Off Their Butts
   https://blog.codinghorror.com/good-programmers-get-off-their-butts/
-
-## Shellicious
-  https://blog.codinghorror.com/shellicious/
-
-## Process.Start and Impersonation
-  https://blog.codinghorror.com/processstart-and-impersonation/
-
-## Web Farms and ASP.NET ViewState
-  https://blog.codinghorror.com/web-farms-and-aspnet-viewstate/
-
-## Multiple /bin folders in ASP.NET
-  https://blog.codinghorror.com/multiple-bin-folders-in-aspnet/
-
-## When Good Comments Go Bad
-  https://blog.codinghorror.com/when-good-comments-go-bad/
 
 ## So you want to be a Game Developer
   https://blog.codinghorror.com/so-you-want-to-be-a-game-developer/
 
-## VB.NET vs C#, round two
-  https://blog.codinghorror.com/vbnet-vs-c-round-two/
-
 ## You'll Never Have Enough Cheese
   https://blog.codinghorror.com/youll-never-have-enough-cheese/
-
-## Captcha Control Coda
-  https://blog.codinghorror.com/captcha-control-coda/
 
 ## The Cost of Complexity
   https://blog.codinghorror.com/the-cost-of-complexity/
 
-## Is DVD the new VHS?
-  https://blog.codinghorror.com/is-dvd-the-new-vhs/
-
 ## Don't Be Afraid to Break Stuff
   https://blog.codinghorror.com/dont-be-afraid-to-break-stuff/
-
-## HTTP Compression via HttpModule
-  https://blog.codinghorror.com/http-compression-via-httpmodule/
 
 ## Rebuttal Rebuttal
   https://blog.codinghorror.com/rebuttal-rebuttal/
@@ -3916,17 +3751,8 @@
 ## Free as in Beer
   https://blog.codinghorror.com/free-as-in-beer/
 
-## Full Trust can't be trusted
-  https://blog.codinghorror.com/full-trust-cant-be-trusted/
-
-## UI Follies, Volume I
-  https://blog.codinghorror.com/ui-follies-volume-i/
-
 ## Who Needs Stored Procedures, Anyways?
   https://blog.codinghorror.com/who-needs-stored-procedures-anyways/
-
-## The Antidote to ASP.NET Smart Navigation
-  https://blog.codinghorror.com/the-antidote-to-aspnet-smart-navigation/
 
 ## Creating Even More Exceptional Exceptions
   https://blog.codinghorror.com/creating-even-more-exceptional-exceptions/
@@ -3943,23 +3769,8 @@
 ## KISS and YAGNI
   https://blog.codinghorror.com/kiss-and-yagni/
 
-## 10 Foot Interface Showdown
-  https://blog.codinghorror.com/10-foot-interface-showdown/
-
 ## Just Say No
   https://blog.codinghorror.com/just-say-no/
-
-## Throwing Better .NET Exceptions with SOAP and HTTP
-  https://blog.codinghorror.com/throwing-better-net-exceptions-with-soap-and-http/
-
-## Managed HTML rendering
-  https://blog.codinghorror.com/managed-html-rendering/
-
-## I want my WSH.NET!
-  https://blog.codinghorror.com/i-want-my-wshnet/
-
-## Stuck in a VB.NET Ghetto
-  https://blog.codinghorror.com/stuck-in-a-vbnet-ghetto/
 
 ## A Programmer's Portfolio
   https://blog.codinghorror.com/a-programmers-portfolio/
@@ -3967,35 +3778,14 @@
 ## A Pragmatic Quick Reference
   https://blog.codinghorror.com/a-pragmatic-quick-reference/
 
-## Are your exceptions silent?
-  https://blog.codinghorror.com/are-your-exceptions-silent/
-
 ## How about an hourly build?
   https://blog.codinghorror.com/how-about-an-hourly-build/
-
-## Media Center goes retail
-  https://blog.codinghorror.com/media-center-goes-retail/
 
 ## We Make Shitty Software.. With Bugs!
   https://blog.codinghorror.com/we-make-shitty-software-with-bugs/
 
 ## Defending Perpetual Intermediacy
   https://blog.codinghorror.com/defending-perpetual-intermediacy/
-
-## Double-Click Must Die revisited
-  https://blog.codinghorror.com/double-click-must-die-revisited/
-
-## Double-Click Must Die
-  https://blog.codinghorror.com/double-click-must-die/
-
-## ASP.NET CAPTCHA control, improved
-  https://blog.codinghorror.com/aspnet-captcha-control-improved/
-
-## An ASP.NET CAPTCHA Server Control
-  https://blog.codinghorror.com/an-aspnet-captcha-server-control/
-
-## Don't Devalue the Address Bar
-  https://blog.codinghorror.com/dont-devalue-the-address-bar/
 
 ## Why Your Code Sucks... and Mine Doesn't
   https://blog.codinghorror.com/why-your-code-sucks-and-mine-doesnt/
@@ -4021,35 +3811,11 @@
 ## The Delusion of Reuse and the Rule of Three
   https://blog.codinghorror.com/the-delusion-of-reuse/
 
-## SquishySyntaxHighlighter and CRC32
-  https://blog.codinghorror.com/squishysyntaxhighlighter-and-crc32/
-
 ## Performance Considered Harmful
   https://blog.codinghorror.com/performance-considered-harmful/
 
-## Saving URLs to MHTML via .NET
-  https://blog.codinghorror.com/saving-urls-to-mhtml-via-net/
-
 ## Being technologically savvy isn't enough
   https://blog.codinghorror.com/being-technologically-savvy-isnt-enough/
-
-## Whidbey ships with Visual SourceSafe
-  https://blog.codinghorror.com/whidbey-ships-with-visual-sourcesafe/
-
-## Get your Hex on
-  https://blog.codinghorror.com/get-your-hex-on/
-
-## A tale of two UIs
-  https://blog.codinghorror.com/a-tale-of-two-uis/
-
-## Killing Zombie Websites
-  https://blog.codinghorror.com/killing-zombie-websites/
-
-## Do You Want to Save?
-  https://blog.codinghorror.com/do-you-want-to-save/
-
-## Using the Command Window
-  https://blog.codinghorror.com/using-the-command-window/
 
 ## Development is Inherently Wicked
   https://blog.codinghorror.com/development-is-inherently-wicked/
