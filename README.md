@@ -2518,9 +2518,6 @@
 ## Don't Ask Us Questions. We'll Just Ignore You.
   https://blog.codinghorror.com/dont-ask-us-questions-well-just-ignore-you/
 
-## Road Warrior Revisited
-  https://blog.codinghorror.com/road-warrior-revisited/
-
 ## Love It, Hate It
   https://blog.codinghorror.com/love-it-hate-it/
 
@@ -3555,21 +3552,12 @@
 
 ## You Gotta Own It
   https://blog.codinghorror.com/you-gotta-own-it/
-
-## Is your PC boring?
-  https://blog.codinghorror.com/is-your-pc-boring/
-
+  
 ## Regex use vs. Regex abuse
   https://blog.codinghorror.com/regex-use-vs-regex-abuse/
 
 ## A need for speed-- and silence
   https://blog.codinghorror.com/a-need-for-speed-and-silence/
-
-## Gettin' Greppy Wit It
-  https://blog.codinghorror.com/gettin-greppy-wit-it/
-
-## Keyboarding
-  https://blog.codinghorror.com/keyboarding/
 
 ## Ivory Tower Development
   https://blog.codinghorror.com/ivory-tower-development/
@@ -3580,17 +3568,8 @@
 ## Level 5 means never having to say you're sorry
   https://blog.codinghorror.com/level-5-means-never-having-to-say-youre-sorry/
 
-## Console apps and AppDomain.CurrentDomain.UnhandledException
-  https://blog.codinghorror.com/console-apps-and-appdomain-currentdomain-unhandledexception/
-
 ## The He-Man Pattern Haters Club
   https://blog.codinghorror.com/the-he-man-pattern-haters-club/
-
-## MAME Cocktail Arcade, documented
-  https://blog.codinghorror.com/mame-cocktail-arcade-documented/
-
-## Video Codecs are the next DLL Hell
-  https://blog.codinghorror.com/video-codecs-are-the-next-dll-hell/
 
 ## It's the IDE, dummy!
   https://blog.codinghorror.com/its-the-ide-dummy/
@@ -3600,9 +3579,6 @@
 
 ## Universally Annoying Remotes, Revisited
   https://blog.codinghorror.com/universally-annoying-remotes-revisited/
-
-## Disk Space
-  https://blog.codinghorror.com/disk-space/
 
 ## Some Lessons From Forth
   https://blog.codinghorror.com/some-lessons-from-forth/
@@ -3619,47 +3595,20 @@
 ## Screwdrivers vs. Couture
   https://blog.codinghorror.com/screwdrivers-vs-couture/
 
-## Micro-Optimization and Meatballs
-  https://blog.codinghorror.com/micro-optimization-and-meatballs/
-
 ## Tog and Google on UI
   https://blog.codinghorror.com/tog-and-google-on-ui/
 
 ## The Reality of Failure
   https://blog.codinghorror.com/the-reality-of-failure/
 
-## The real cost of performance
-  https://blog.codinghorror.com/the-real-cost-of-performance/
-
-## MAME Cocktail Arcade
-  https://blog.codinghorror.com/mame-cocktail-arcade/
-
-## There Ain't No Such Thing as Plain Text
-  https://blog.codinghorror.com/there-aint-no-such-thing-as-plain-text/
-
-## Perceived Performance and Form.Paint
-  https://blog.codinghorror.com/perceived-performance-and-formpaint/
-
 ## Moving the Block
   https://blog.codinghorror.com/moving-the-block/
-
-## If an Exception happens in Form.Paint, does anyone catch it?
-  https://blog.codinghorror.com/if-an-exception-happens-in-formpaint-does-anyone-catch-it/
-
-## Code-Behind vs. Inline Code
-  https://blog.codinghorror.com/code-behind-vs-inline-code/
 
 ## On mistakes
   https://blog.codinghorror.com/on-mistakes/
 
-## Client-Side code highlighting
-  https://blog.codinghorror.com/client-side-code-highlighting/
-
 ## 2005: Twenty years of Windows
   https://blog.codinghorror.com/2005-twenty-years-of-windows/
-
-## Threading, Concurrency, and the Most Powerful Psychokinetic Explosive in the Universe
-  https://blog.codinghorror.com/threading-concurrency-and-the-most-powerful-psychokinetic-explosive-in-the-univ/
 
 ## Spurious Pundit
   https://blog.codinghorror.com/spurious-pundit/
@@ -3670,35 +3619,17 @@
 ## Reducing Useless Clutter on Websites
   https://blog.codinghorror.com/reducing-useless-clutter-on-websites/
 
-## Road Warrior, Beyond Lapdom
-  https://blog.codinghorror.com/road-warrior-beyond-lapdom/
-
 ## Emulating Passion
   https://blog.codinghorror.com/emulating-passion/
 
 ## Happy Talk Must Die
   https://blog.codinghorror.com/happy-talk-must-die/
 
-## Task Manager Extreme
-  https://blog.codinghorror.com/task-manager-extreme/
-
-## The Last Configuration Section Handler..
-  https://blog.codinghorror.com/the-last-configuration-section-handler/
-
-## Is DoEvents Evil?
-  https://blog.codinghorror.com/is-doevents-evil/
-
 ## Interactive Xpath Expression Builder
   https://blog.codinghorror.com/interactive-xpath-expression-builder/
 
-## Progamming Fonts
-  https://blog.codinghorror.com/progamming-fonts/
-
 ## My Database is a Web Service
   https://blog.codinghorror.com/my-database-is-a-web-service/
-
-## Road Warrior, come out to play
-  https://blog.codinghorror.com/road-warrior-come-out-to-play/
 
 ## This is your Anti-Productivity Pod
   https://blog.codinghorror.com/this-is-your-anti-productivity-pod/
