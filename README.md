@@ -433,9 +433,6 @@
 ## YouTube vs. Fair Use
   https://blog.codinghorror.com/youtube-vs-fair-use/
 
-## Revisiting Solid State Hard Drives
-  https://blog.codinghorror.com/revisiting-solid-state-hard-drives/
-
 ## Go That Way, Really Fast
   https://blog.codinghorror.com/go-that-way-really-fast/
 
@@ -528,9 +525,6 @@
 
 ## The Interview With The Programmer
   https://blog.codinghorror.com/the-interview-with-the-programmer/
-
-## The State of Solid State Hard Drives
-  https://blog.codinghorror.com/the-state-of-solid-state-hard-drives/
 
 ## The Xanadu Dream
   https://blog.codinghorror.com/the-xanadu-dream/
@@ -966,9 +960,6 @@
 
 ## Is Money Useless to Open Source Projects?
   https://blog.codinghorror.com/is-money-useless-to-open-source-projects/
-
-## Understanding The Hardware
-  https://blog.codinghorror.com/understanding-the-hardware/
 
 ## Coding Without Comments
   https://blog.codinghorror.com/coding-without-comments/
@@ -1450,9 +1441,6 @@
 ## I'd Consider That Harmful, Too
   https://blog.codinghorror.com/id-consider-that-harmful-too/
 
-## Hardware Assisted Brute Force Attacks: Still For Dummies
-  https://blog.codinghorror.com/hardware-assisted-brute-force-attacks-still-for-dummies/
-
 ## Virtual Machine Server Hosting
   https://blog.codinghorror.com/virtual-machine-server-hosting/
 
@@ -1747,9 +1735,6 @@
 ## Let's Build a Grid
   https://blog.codinghorror.com/lets-build-a-grid/
 
-## Computer Hardware Pornography
-  https://blog.codinghorror.com/computer-hardware-pornography/
-
 ## Why Is The System Idle Process Hogging All The Resources?
   https://blog.codinghorror.com/why-is-the-system-idle-process-hogging-all-the-resources/
 
@@ -1761,9 +1746,6 @@
 
 ## The End of the &quot;Microsoft Tax&quot;
   https://blog.codinghorror.com/the-end-of-the-microsoft-tax/
-
-## When Hardware is Free, Power is Expensive
-  https://blog.codinghorror.com/when-hardware-is-free-power-is-expensive/
 
 ## JavaScript: The Lingua Franca of the Web
   https://blog.codinghorror.com/javascript-the-lingua-franca-of-the-web/
@@ -2086,9 +2068,6 @@
 ## Code Tells You How, Comments Tell You Why
   https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
 
-## Hard Drive Temperatures: Be Afraid
-  https://blog.codinghorror.com/hard-drive-temperatures-be-afraid/
-
 ## Next-Gen DVD: Are Those Additional Pixels Worth Your Money?
   https://blog.codinghorror.com/next-gen-dvd-are-those-additional-pixels-worth-your-money/
 
@@ -2170,9 +2149,6 @@
 ## Screencasting for Windows
   https://blog.codinghorror.com/screencasting-for-windows/
 
-## KeyTraino for Visual Studio 2005
-  https://blog.codinghorror.com/keytraino-for-visual-studio-2005/
-
 ## Customization: The Software Tar-Baby
   https://blog.codinghorror.com/customization-the-software-tar-baby/
 
@@ -2251,12 +2227,6 @@
 ## Anything But Waterfall
   https://blog.codinghorror.com/anything-but-waterfall/
 
-## I Rock at BASIC
-  https://blog.codinghorror.com/i-rock-at-basic/
-
-## Hard Drives -- breaking the Terabyte Barrier
-  https://blog.codinghorror.com/hard-drives-breaking-the-terabyte-barrier/
-
 ## The Multitasking Myth
   https://blog.codinghorror.com/the-multi-tasking-myth/
 
@@ -2311,9 +2281,6 @@
 ## Transfer Mode Downgraded
   https://blog.codinghorror.com/transfer-mode-downgraded/
 
-## External Hard Drives
-  https://blog.codinghorror.com/external-hard-drives/
-
 ## Computer Languages aren't Human Languages
   https://blog.codinghorror.com/computer-languages-arent-human-languages/
 
@@ -2358,9 +2325,6 @@
 
 ## The Magical Number Seven Plus or Minus Two
   https://blog.codinghorror.com/the-magical-number-seven-plus-or-minus-two/
-
-## Sometimes It's a Hardware Problem
-  https://blog.codinghorror.com/sometimes-its-a-hardware-problem/
 
 ## The Last Configuration Section Handler.. Revisited
   https://blog.codinghorror.com/the-last-configuration-section-handler-revisited/
@@ -2884,9 +2848,6 @@
 ## Web Typography Hack: sIFR
   https://blog.codinghorror.com/web-typography-hack-sifr/
 
-## Automated Hard Drive Defragmentation
-  https://blog.codinghorror.com/automated-hard-drive-defragmentation/
-
 ## Client vs. Developer Wars
   https://blog.codinghorror.com/client-vs-developer-wars/
 
@@ -3321,9 +3282,6 @@
 
 ## Gee, I Wish I Had Spent More Time Alone With My Computer
   https://blog.codinghorror.com/gee-i-wish-i-had-spent-more-time-alone-with-my-computer/
-
-## Google Hardware circa 1999
-  https://blog.codinghorror.com/google-hardware-circa-1999/
 
 ## Incompetence Considered Harmful
   https://blog.codinghorror.com/incompetence-considered-harmful/
