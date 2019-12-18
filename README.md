@@ -61,14 +61,8 @@
 ## The Hugging Will Continue Until Morale Improves
   https://blog.codinghorror.com/the-hugging-will-continue-until-morale-improves/
 
-## The 2016 HTPC Build
-  https://blog.codinghorror.com/the-2016-htpc-build/
-
 ## To ECC or Not To ECC
   https://blog.codinghorror.com/to-ecc-or-not-to-ecc/
-
-## Building a PC, Part VIII: Iterating
-  https://blog.codinghorror.com/building-a-pc-part-viii-iterating/
 
 ## Our Brave New World of 4K Displays
   https://blog.codinghorror.com/our-brave-new-world-of-4k-displays/
@@ -163,9 +157,6 @@
 ## Updating Your Utility Belt
   https://blog.codinghorror.com/updating-your-utility-belt/
 
-## The 2013 HTPC Build
-  https://blog.codinghorror.com/the-2013-htpc-build/
-
 ## The CODE Keyboard
   https://blog.codinghorror.com/the-code-keyboard/
 
@@ -214,17 +205,8 @@
 ## Todon't
   https://blog.codinghorror.com/todont/
 
-## The PC is Over
-  https://blog.codinghorror.com/the-pc-is-over/
-
 ## Somebody is to Blame for This
   https://blog.codinghorror.com/somebody-is-to-blame-for-this/
-
-## The Last PC Laptop
-  https://blog.codinghorror.com/the-last-pc-laptop/
-
-## Computer Crime, Then and Now
-  https://blog.codinghorror.com/computer-crime-then-and-now/
 
 ## I Was a Teenage Hacker
   https://blog.codinghorror.com/i-was-a-teenage-hacker/
@@ -310,9 +292,6 @@
 ## What You Can't See You Can't Get
   https://blog.codinghorror.com/what-you-cant-see-you-cant-get/
 
-## Welcome to the Post PC Era
-  https://blog.codinghorror.com/welcome-to-the-post-pc-era/
-
 ## Rubber Duck Problem Solving
   https://blog.codinghorror.com/rubber-duck-problem-solving/
 
@@ -361,9 +340,6 @@
 ## Nobody's Going to Help You, and That's Awesome
   https://blog.codinghorror.com/nobodys-going-to-help-you-and-thats-awesome/
 
-## Building a PC, Part VII: Rebooting
-  https://blog.codinghorror.com/building-a-pc-part-vii-rebooting/
-
 ## Performance is a Feature
   https://blog.codinghorror.com/performance-is-a-feature/
 
@@ -384,9 +360,6 @@
 
 ## Working with the Chaos Monkey
   https://blog.codinghorror.com/working-with-the-chaos-monkey/
-
-## Revisiting the Home Theater PC
-  https://blog.codinghorror.com/revisiting-the-home-theater-pc/
 
 ## The Importance of Net Neutrality
   https://blog.codinghorror.com/the-importance-of-net-neutrality/
@@ -477,9 +450,6 @@
 
 ## Responsible Open Source Code Parenting
   https://blog.codinghorror.com/responsible-open-source-code-parenting/
-
-## Building a PC, Part VI: Rebuilding
-  https://blog.codinghorror.com/building-a-pc-part-vi-rebuilding/
 
 ## International Backup Awareness Day
   https://blog.codinghorror.com/international-backup-awareness-day/
@@ -631,9 +601,6 @@
 ## Why Isn't My Encryption.. Encrypting?
   https://blog.codinghorror.com/why-isnt-my-encryption-encrypting/
 
-## Why Do Computers Suck at Math?
-  https://blog.codinghorror.com/why-do-computers-suck-at-math/
-
 ## The Web Browser Address Bar is the New Command Line
   https://blog.codinghorror.com/the-web-browser-address-bar-is-the-new-command-line/
 
@@ -714,9 +681,6 @@
 
 ## Sharpening the Saw
   https://blog.codinghorror.com/sharpening-the-saw/
-
-## The Computer Performance Shell Game
-  https://blog.codinghorror.com/the-computer-performance-shell-game/
 
 ## HTML Validation: Does It Matter?
   https://blog.codinghorror.com/html-validation-does-it-matter/
@@ -949,9 +913,6 @@
 ## Coding Without Comments
   https://blog.codinghorror.com/coding-without-comments/
 
-## Building Tiny, Ultra Low Power PCs
-  https://blog.codinghorror.com/building-tiny-ultra-low-power-pcs/
-
 ## Web Development as Tag Soup
   https://blog.codinghorror.com/web-development-as-tag-soup/
 
@@ -981,9 +942,6 @@
 
 ## Why Can't Microsoft Ship Open Source Software?
   https://blog.codinghorror.com/why-cant-microsoft-ship-open-source-software/
-
-## Alan Turing, the Father of Computer Science
-  https://blog.codinghorror.com/alan-turing-the-father-of-computer-science/
 
 ## Open Wireless and the Illusion of Security
   https://blog.codinghorror.com/open-wireless-and-the-illusion-of-security/
@@ -1020,9 +978,6 @@
 
 ## Finally, a Definition of Programming I Can Actually Understand
   https://blog.codinghorror.com/finally-a-definition-of-programming-i-can-actually-understand/
-
-## The Greatest Invention in Computer Science
-  https://blog.codinghorror.com/the-greatest-invention-in-computer-science/
 
 ## Large USB Flash Drive Performance
   https://blog.codinghorror.com/large-usb-flash-drive-performance/
@@ -1075,17 +1030,11 @@
 ## Programmers Don't Read Books -- But You Should
   https://blog.codinghorror.com/programmers-dont-read-books-but-you-should/
 
-## Building Your Own Home Theater PC
-  https://blog.codinghorror.com/building-your-own-home-theater-pc/
-
 ## The Problem with Software Registration
   https://blog.codinghorror.com/the-problem-with-software-registration/
 
 ## Everything I Needed to Know About Programming I Learned from BASIC
   https://blog.codinghorror.com/everything-i-needed-to-know-about-programming-i-learned-from-basic/
-
-## Building a PC, Part V: Upgrading
-  https://blog.codinghorror.com/building-a-pc-part-v-upgrading/
 
 ## Introducing Stackoverflow.com
   https://blog.codinghorror.com/introducing-stackoverflow-com/
@@ -1243,12 +1192,6 @@
 ## What's On Your Keychain, 2008 Edition
   https://blog.codinghorror.com/whats-on-your-keychain-2008-edition/
 
-## How Should We Teach Computer Science?
-  https://blog.codinghorror.com/how-should-we-teach-computer-science/
-
-## The Enduring Art of Computer Programming
-  https://blog.codinghorror.com/the-enduring-art-of-computer-programming/
-
 ## No Matter What They Tell You, It's a People Problem
   https://blog.codinghorror.com/no-matter-what-they-tell-you-its-a-people-problem/
 
@@ -1347,9 +1290,6 @@
 
 ## You're Now Competing With The Internet
   https://blog.codinghorror.com/youre-now-competing-with-the-internet/
-
-## Don't Forget To Lock Your Computer
-  https://blog.codinghorror.com/dont-forget-to-lock-your-computer/
 
 ## What's in a Project Name?
   https://blog.codinghorror.com/whats-in-a-project-name/
@@ -1462,9 +1402,6 @@
 ## Was The Windows Registry a Good Idea?
   https://blog.codinghorror.com/was-the-windows-registry-a-good-idea/
 
-## Computer Workstation Ergonomics
-  https://blog.codinghorror.com/computer-workstation-ergonomics/
-
 ## Widescreen and FOV
   https://blog.codinghorror.com/widescreen-and-fov/
 
@@ -1504,9 +1441,6 @@
 ## What's Worse Than Crashing?
   https://blog.codinghorror.com/whats-worse-than-crashing/
 
-## Speeding Up Your PC's Boot Time
-  https://blog.codinghorror.com/speeding-up-your-pcs-boot-time/
-
 ## Always. Be. Shipping.
   https://blog.codinghorror.com/yes-but-what-have-you-done/
 
@@ -1524,9 +1458,6 @@
 
 ## Lessons from Garry's Mod
   https://blog.codinghorror.com/lessons-from-garrys-mod/
-
-## Building a PC, Part IV: Now It's Your Turn
-  https://blog.codinghorror.com/building-a-pc-part-iv-now-its-your-turn/
 
 ## Will My Software Project Fail?
   https://blog.codinghorror.com/will-my-software-project-fail/
@@ -1548,15 +1479,6 @@
 
 ## Steve Mann, Cyborg
   https://blog.codinghorror.com/steve-mann-cyborg/
-
-## Building a PC, Part III - Overclocking
-  https://blog.codinghorror.com/building-a-pc-part-iii-overclocking/
-
-## Building a PC, Part II
-  https://blog.codinghorror.com/building-a-pc-part-ii/
-
-## Building a PC, Part I
-  https://blog.codinghorror.com/building-a-pc-part-i/
 
 ## Defining Open Source
   https://blog.codinghorror.com/defining-open-source/
@@ -1650,9 +1572,6 @@
 
 ## Designing Interactions at IDEO
   https://blog.codinghorror.com/designing-interactions-at-ideo/
-
-## This Site May Harm Your Computer
-  https://blog.codinghorror.com/this-site-may-harm-your-computer/
 
 ## Zoomable Interfaces
   https://blog.codinghorror.com/zoomable-interfaces/
@@ -1759,12 +1678,6 @@
 ## Are Web Interfaces &quot;Good Enough&quot;?
   https://blog.codinghorror.com/are-web-interfaces-good-enough/
 
-## My Work PC, or, Taking Your Own Advice
-  https://blog.codinghorror.com/my-work-pc-or-taking-your-own-advice/
-
-## Building a Computer the Google Way
-  https://blog.codinghorror.com/building-a-computer-the-google-way/
-
 ## Software Internationalization, SIMS Style
   https://blog.codinghorror.com/software-internationalization-sims-style/
 
@@ -1828,9 +1741,6 @@
 ## Does Offline Mode Still Matter?
   https://blog.codinghorror.com/does-offline-mode-still-matter/
 
-## Remotely Waking Up Your PC
-  https://blog.codinghorror.com/remotely-waking-up-your-pc/
-
 ## Non-Native UI Sucks
   https://blog.codinghorror.com/non-native-ui-sucks/
 
@@ -1878,9 +1788,6 @@
 
 ## Do Certifications Matter?
   https://blog.codinghorror.com/do-certifications-matter/
-
-## There Are No Design Leaders in the PC World
-  https://blog.codinghorror.com/there-are-no-design-leaders-in-the-pc-world/
 
 ## Five Things You Didn't Know About Me (and my office)
   https://blog.codinghorror.com/five-things-you-didnt-know-about-me-and-my-office/
@@ -1966,9 +1873,6 @@
 ## Filesystem Paths: How Long is Too Long?
   https://blog.codinghorror.com/filesystem-paths-how-long-is-too-long/
 
-## Computers are Lousy Random Number Generators
-  https://blog.codinghorror.com/computers-are-lousy-random-number-generators/
-
 ## It's Never Been Built Before
   https://blog.codinghorror.com/its-never-been-built-before/
 
@@ -2040,9 +1944,6 @@
 
 ## The Field of Dreams Strategy
   https://blog.codinghorror.com/the-field-of-dreams-strategy/
-
-## Chess: Computer v. Human
-  https://blog.codinghorror.com/chess-computer-v-human/
 
 ## Blog Advertising: Yea or Nay
   https://blog.codinghorror.com/blog-advertising-yea-or-nay/
@@ -2119,9 +2020,6 @@
 ## Transfer Mode Downgraded
   https://blog.codinghorror.com/transfer-mode-downgraded/
 
-## Computer Languages aren't Human Languages
-  https://blog.codinghorror.com/computer-languages-arent-human-languages/
-
 ## Game Player, Game Programmer
   https://blog.codinghorror.com/game-player-game-programmer/
 
@@ -2139,9 +2037,6 @@
 
 ## Coding Horror Sightings
   https://blog.codinghorror.com/coding-horror-sightings/
-
-## Building a Quiet PC
-  https://blog.codinghorror.com/building-a-quiet-pc/
 
 ## Total Users Does Not Equal Total Usage
   https://blog.codinghorror.com/total-users-does-not-equal-total-usage/
@@ -2233,9 +2128,6 @@
 ## The Visual Studio IDE and Regular Expressions
   https://blog.codinghorror.com/the-visual-studio-ide-and-regular-expressions/
 
-## Power, Surge Protection, PCs, and You
-  https://blog.codinghorror.com/power-surge-protection-pcs-and-you/
-
 ## Brute Force Key Attacks Are for Dummies
   https://blog.codinghorror.com/brute-force-key-attacks-are-for-dummies/
 
@@ -2266,9 +2158,6 @@
 ## Secretly, We're All Geeks
   https://blog.codinghorror.com/secretly-were-all-geeks/
 
-## Object-Relational Mapping is the Vietnam of Computer Science
-  https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/
-
 ## Meet the Arch-Nemesis of Productivity: The Internet
   https://blog.codinghorror.com/meet-the-arch-nemesis-of-productivity-the-internet/
 
@@ -2286,10 +2175,7 @@
 
 ## Pretty Code, Ugly Code
   https://blog.codinghorror.com/pretty-code-ugly-code/
-
-## PC Pinball Sims
-  https://blog.codinghorror.com/pc-pinball-sims/
-
+  
 ## Laptop Alternatives
   https://blog.codinghorror.com/laptop-alternatives/
 
@@ -2471,9 +2357,6 @@
 ## How Not To Become a Rockstar Programmer
   https://blog.codinghorror.com/how-not-to-become-a-rockstar-programmer/
 
-## The Ideal Computer Desk
-  https://blog.codinghorror.com/the-ideal-computer-desk/
-
 ## Making Considerate Software
   https://blog.codinghorror.com/making-considerate-software/
 
@@ -2636,15 +2519,11 @@
 ## Flattening Arrow Code
   https://blog.codinghorror.com/flattening-arrow-code/
 
-
 ## Anisotropic Filtering
   https://blog.codinghorror.com/anisotropic-filtering/
 
 ## The Zen of Mustard and Pickles
   https://blog.codinghorror.com/the-zen-of-mustard-and-pickles/
-
-## The Impossibly Small PC: Nano-ITX
-  https://blog.codinghorror.com/the-impossibly-small-pc-nano-itx/
 
 ## Getting Back to Web Basics
   https://blog.codinghorror.com/getting-back-to-web-basics/
@@ -2663,9 +2542,6 @@
 
 ## Seven Habits of Highly Effective Programmers
   https://blog.codinghorror.com/seven-habits-of-highly-effective-programmers/
-
-## PC Racing Sims
-  https://blog.codinghorror.com/pc-racing-sims/
 
 ## Web Typography Hack: sIFR
   https://blog.codinghorror.com/web-typography-hack-sifr/
@@ -2786,9 +2662,6 @@
 
 ## Avoiding Booleans
   https://blog.codinghorror.com/avoiding-booleans/
-
-## The Cost of Leaving Your PC On
-  https://blog.codinghorror.com/the-cost-of-leaving-your-pc-on/
 
 ## Excluding Matches With Regular Expressions
   https://blog.codinghorror.com/excluding-matches-with-regular-expressions/
@@ -2991,9 +2864,6 @@
 ## What if it was infinitely fast?
   https://blog.codinghorror.com/what-if-it-was-infinitely-fast/
 
-## The D.I.Y. PC
-  https://blog.codinghorror.com/the-diy-pc/
-
 ## The Dancing Bunnies Problem
   https://blog.codinghorror.com/the-dancing-bunnies-problem/
 
@@ -3092,9 +2962,6 @@
 
 ## Recursive Page.FindControl
   https://blog.codinghorror.com/recursive-pagefindcontrol/
-
-## Gee, I Wish I Had Spent More Time Alone With My Computer
-  https://blog.codinghorror.com/gee-i-wish-i-had-spent-more-time-alone-with-my-computer/
 
 ## Incompetence Considered Harmful
   https://blog.codinghorror.com/incompetence-considered-harmful/
