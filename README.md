@@ -1807,9 +1807,6 @@
 ## Where Are All the Open Source Billionaires?
   https://blog.codinghorror.com/where-are-all-the-open-source-billionaires/
 
-## Welcome to Dot-Com Bubble 2.0
-  https://blog.codinghorror.com/welcome-to-dot-com-bubble-20/
-
 ## Apparently Bloggers Aren't Journalists
   https://blog.codinghorror.com/apparently-bloggers-arent-journalists/
 
@@ -2956,9 +2953,6 @@
 ## Sample Databases in SQL Server 2005
   https://blog.codinghorror.com/sample-databases-in-sql-server-2005/
 
-## GotDotNet: still sucking after all these years
-  https://blog.codinghorror.com/gotdotnet-still-sucking-after-all-these-years/
-
 ## Search: If It Isn't Incremental, It's Excremental
   https://blog.codinghorror.com/search-if-it-isnt-incremental-its-excremental/
 
@@ -3385,32 +3379,11 @@
 ## What Would Blanka Do?
   https://blog.codinghorror.com/what-would-blanka-do/
 
-## Encryption for Dummies
-  https://blog.codinghorror.com/encryption-for-dummies/
-
-## Improved craigslist.org all city search
-  https://blog.codinghorror.com/improved-craigslistorg-all-city-search/
-
 ## Good Test / Bad Test
   https://blog.codinghorror.com/good-test-bad-test/
 
-## Determining Build Date the hard way
-  https://blog.codinghorror.com/determining-build-date-the-hard-way/
-
-## Tabbed Browsing and MDI-SDI-WTF
-  https://blog.codinghorror.com/tabbed-browsing-and-mdi-sdi-wtf/
-
 ## Hackers and Pastry Chefs
   https://blog.codinghorror.com/hackers-and-pastry-chefs/
-
-## Raleigh Code Camp: User Friendly Exception Handling Strategies
-  https://blog.codinghorror.com/raleigh-code-camp-user-friendly-exception-handling-strategies/
-
-## Raleigh Code Camp Tomorrow
-  https://blog.codinghorror.com/raleigh-code-camp-tomorrow/
-
-## Custom wsdlHelpGenerator + webroot &#x3D; error
-  https://blog.codinghorror.com/custom-wsdlhelpgenerator-webroot-error/
 
 ## Checksums and Hashes
   https://blog.codinghorror.com/checksums-and-hashes/
@@ -3426,9 +3399,6 @@
 
 ## Parsing: Beyond Regex
   https://blog.codinghorror.com/parsing-beyond-regex/
-
-## Searching all Craigslist.org Cities
-  https://blog.codinghorror.com/searching-all-craigslistorg-cities/
 
 ## What's on your keychain?
   https://blog.codinghorror.com/whats-on-your-keychain/
@@ -3447,9 +3417,6 @@
 
 ## Trees, TreeViews, and UI
   https://blog.codinghorror.com/trees-treeviews-and-ui/
-
-## If You Like Regular Expressions So Much, Why Don't You Marry Them?
-  https://blog.codinghorror.com/if-you-like-regular-expressions-so-much-why-dont-you-marry-them/
 
 ## Make Mine XCOPY
   https://blog.codinghorror.com/make-mine-xcopy/
@@ -3471,9 +3438,6 @@
 
 ## Logging TraceListener Improved
   https://blog.codinghorror.com/logging-tracelistener-improved/
-
-## Paging Dr. Dotnetsky...
-  https://blog.codinghorror.com/paging-dr-dotnetsky/
 
 ## On Managed Code Performance
   https://blog.codinghorror.com/on-managed-code-performance/
