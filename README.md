@@ -1024,9 +1024,6 @@
 ## The Greatest Invention in Computer Science
   https://blog.codinghorror.com/the-greatest-invention-in-computer-science/
 
-## Please Give Us Your Email Password
-  https://blog.codinghorror.com/please-give-us-your-email-password/
-
 ## Large USB Flash Drive Performance
   https://blog.codinghorror.com/large-usb-flash-drive-performance/
 
@@ -1063,9 +1060,6 @@
 ## Is HTML a Humane Markup Language?
   https://blog.codinghorror.com/is-html-a-humane-markup-language/
 
-## Cleaning Your Display and Keyboard
-  https://blog.codinghorror.com/cleaning-your-display-and-keyboard/
-
 ## XML: The Angle Bracket Tax
   https://blog.codinghorror.com/xml-the-angle-bracket-tax/
 
@@ -1074,9 +1068,6 @@
 
 ## Understanding Model-View-Controller
   https://blog.codinghorror.com/understanding-model-view-controller/
-
-## The Mainstreaming of GPS
-  https://blog.codinghorror.com/the-mainstreaming-of-gps/
 
 ## The Great Dub-Dub-Dub Debate
   https://blog.codinghorror.com/the-great-dub-dub-dub-debate/
@@ -1090,14 +1081,8 @@
 ## The Problem with Software Registration
   https://blog.codinghorror.com/the-problem-with-software-registration/
 
-## Behold WordPress, Destroyer of CPUs
-  https://blog.codinghorror.com/behold-wordpress-destroyer-of-cpus/
-
 ## Everything I Needed to Know About Programming I Learned from BASIC
   https://blog.codinghorror.com/everything-i-needed-to-know-about-programming-i-learned-from-basic/
-
-## Should All Developers Have Manycore CPUs?
-  https://blog.codinghorror.com/should-all-developers-have-manycore-cpus/
 
 ## Building a PC, Part V: Upgrading
   https://blog.codinghorror.com/building-a-pc-part-v-upgrading/
@@ -1119,9 +1104,6 @@
 
 ## Setting up Subversion on Windows
   https://blog.codinghorror.com/setting-up-subversion-on-windows/
-
-## Mousing Surface Theory
-  https://blog.codinghorror.com/mousing-surface-theory/
 
 ## UI-First Software Development
   https://blog.codinghorror.com/ui-first-software-development/
@@ -1744,9 +1726,6 @@
 ## Software Projects as Rock Climbing
   https://blog.codinghorror.com/software-projects-as-rock-climbing/
 
-## Mouse DPI and USB Polling Rate
-  https://blog.codinghorror.com/mouse-dpi-and-usb-polling-rate/
-
 ## All About My Cats!
   https://blog.codinghorror.com/all-about-my-cats/
 
@@ -1756,14 +1735,8 @@
 ## Learning on the Battlefield
   https://blog.codinghorror.com/learning-on-the-battlefield/
 
-## Going Commando - Put Down The Mouse
-  https://blog.codinghorror.com/going-commando-put-down-the-mouse/
-
 ## What's Wrong With The Daily WTF
   https://blog.codinghorror.com/whats-wrong-with-the-daily-wtf/
-
-## Folding: The Death of the General Purpose CPU
-  https://blog.codinghorror.com/folding-the-death-of-the-general-purpose-cpu/
 
 ## Top 6 List of Programming Top 10 Lists
   https://blog.codinghorror.com/top-6-list-of-programming-top-10-lists/
@@ -2570,9 +2543,6 @@
 ## Sometimes a Word is Worth a Thousand Icons
   https://blog.codinghorror.com/sometimes-a-word-is-worth-a-thousand-icons/
 
-## Will Mouse Gestures Ever Be Mainstream?
-  https://blog.codinghorror.com/will-mouse-gestures-ever-be-mainstream/
-
 ## Darwinia
   https://blog.codinghorror.com/darwinia/
 
@@ -2666,8 +2636,6 @@
 ## Flattening Arrow Code
   https://blog.codinghorror.com/flattening-arrow-code/
 
-## Cleaning Word's Nasty HTML
-  https://blog.codinghorror.com/cleaning-words-nasty-html/
 
 ## Anisotropic Filtering
   https://blog.codinghorror.com/anisotropic-filtering/
@@ -3175,12 +3143,6 @@
 
 ## The Difficulty of Dogfooding
   https://blog.codinghorror.com/the-difficulty-of-dogfooding/
-
-## My Mouse Fetish
-  https://blog.codinghorror.com/my-mouse-fetish/
-
-## Multiple Core CPU Futures
-  https://blog.codinghorror.com/multiple-core-cpu-futures/
 
 ## Defeating Optimism
   https://blog.codinghorror.com/defeating-optimism/
