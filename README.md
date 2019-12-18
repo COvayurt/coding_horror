@@ -10,9 +10,6 @@
 ## Hacker, Hack Thyself
   https://blog.codinghorror.com/hacker-hack-thyself/
 
-## Thunderbolting Your Video Card
-  https://blog.codinghorror.com/thunderbolting-your-video-card/
-
 ## Password Rules Are Bullshit
   https://blog.codinghorror.com/password-rules-are-bullshit/
 
@@ -235,9 +232,6 @@
 ## Today is Goof Off at Work Day
   https://blog.codinghorror.com/today-is-goof-off-at-work-day/
 
-## The IPS LCD Revolution
-  https://blog.codinghorror.com/the-ips-lcd-revolution/
-
 ## But You Did Not Persuade Me
   https://blog.codinghorror.com/but-you-did-not-persuade-me/
 
@@ -355,9 +349,6 @@
 ## On Parenthood
   https://blog.codinghorror.com/on-parenthood/
 
-## Multiple Video Cards
-  https://blog.codinghorror.com/multiple-video-cards/
-
 ## Serving at the Pleasure of the King
   https://blog.codinghorror.com/serving-at-the-pleasure-of-the-king/
 
@@ -459,9 +450,6 @@
 
 ## So You'd Like to Send Some Email (Through Code)
   https://blog.codinghorror.com/so-youd-like-to-send-some-email-through-code/
-
-## Three Monitors For Every User
-  https://blog.codinghorror.com/three-monitors-for-every-user/
 
 ## Usability On The Cheap and Easy
   https://blog.codinghorror.com/usability-on-the-cheap-and-easy/
@@ -844,9 +832,6 @@
 ## Avoiding The Uncanny Valley of User Interface
   https://blog.codinghorror.com/avoiding-the-uncanny-valley-of-user-interface/
 
-## Easy, Efficient Hi-Def Video Playback
-  https://blog.codinghorror.com/easy-efficient-hi-def-video-playback/
-
 ## Profitable Until Deemed Illegal
   https://blog.codinghorror.com/profitable-until-deemed-illegal/
 
@@ -1093,9 +1078,6 @@
 ## The Mainstreaming of GPS
   https://blog.codinghorror.com/the-mainstreaming-of-gps/
 
-## Re-Encoding Your DVDs
-  https://blog.codinghorror.com/re-encoding-your-dvds/
-
 ## The Great Dub-Dub-Dub Debate
   https://blog.codinghorror.com/the-great-dub-dub-dub-debate/
 
@@ -1135,9 +1117,6 @@
 ## Rediscovering Arcade Nostalgia
   https://blog.codinghorror.com/rediscovering-arcade-nostalgia/
 
-## Help Name Our Website
-  https://blog.codinghorror.com/help-name-our-website/
-
 ## Setting up Subversion on Windows
   https://blog.codinghorror.com/setting-up-subversion-on-windows/
 
@@ -1153,14 +1132,8 @@
 ## Let That Be a Lesson To You, Son: Never Upgrade.
   https://blog.codinghorror.com/let-that-be-a-lesson-to-you-son-never-upgrade/
 
-## Revisiting "Keyboard vs. The Mouse, pt 1"
-  https://blog.codinghorror.com/revisiting-keyboard-vs-the-mouse-pt-1/
-
 ## Just a Little Bit of Software History Repeating
   https://blog.codinghorror.com/just-a-little-bit-of-software-history-repeating/
-
-## What Should The Middle Mouse Button Mean?
-  https://blog.codinghorror.com/what-should-the-middle-mouse-button-mean/
 
 ## I {entity} Unicode
   https://blog.codinghorror.com/i-entity-unicode/
@@ -1170,9 +1143,6 @@
 
 ## Is Eeyore Designing Your Software?
   https://blog.codinghorror.com/is-eeyore-designing-your-software/
-
-## The Sierra Network II
-  https://blog.codinghorror.com/the-sierra-network-ii/
 
 ## Paul Graham's Participatory Narcissism
   https://blog.codinghorror.com/paul-grahams-participatory-narcissism/
@@ -1185,9 +1155,6 @@
 
 ## The Dark Side of Extensions
   https://blog.codinghorror.com/the-dark-side-of-extensions/
-
-## Does More Than One Monitor Improve Productivity?
-  https://blog.codinghorror.com/does-more-than-one-monitor-improve-productivity/
 
 ## What's Wrong With Turkey?
   https://blog.codinghorror.com/whats-wrong-with-turkey/
@@ -1203,9 +1170,6 @@
 
 ## Death Threats, Intimidation, and Blogging
   https://blog.codinghorror.com/death-threats-intimidation-and-blogging/
-
-## See You at MIX08!
-  https://blog.codinghorror.com/see-you-at-mix08/
 
 ## CAPTCHA is Dead, Long Live CAPTCHA!
   https://blog.codinghorror.com/captcha-is-dead-long-live-captcha/
@@ -1342,7 +1306,7 @@
 ## Software Registration Keys
   https://blog.codinghorror.com/software-registration-keys/
 
-## On The Meaning of &quot;Coding Horror&quot;
+## On The Meaning of "Coding Horror"
   https://blog.codinghorror.com/on-the-meaning-of-coding-horror/
 
 ## Our Fractured Online Identities
@@ -1390,7 +1354,7 @@
 ## The Two Types of Programmers
   https://blog.codinghorror.com/the-two-types-of-programmers/
 
-## Has CAPTCHA Been &quot;Broken&quot;?
+## Has CAPTCHA Been "Broken"?
   https://blog.codinghorror.com/has-captcha-been-broken/
 
 ## Living the Dream: Rock Band
@@ -1411,9 +1375,6 @@
 ## The Sad State of Digital Software Distribution
   https://blog.codinghorror.com/the-sad-state-of-digital-software-distribution/
 
-## Is It Time for 64-bit on the Desktop?
-  https://blog.codinghorror.com/is-it-time-for-64-bit-on-the-desktop/
-
 ## Making Donations Easy
   https://blog.codinghorror.com/making-donations-easy/
 
@@ -1422,12 +1383,6 @@
 
 ## Don't Click Here: The Art of Hyperlinking
   https://blog.codinghorror.com/dont-click-here-the-art-of-hyperlinking/
-
-## Not All LCD Panels Are Created Equal
-  https://blog.codinghorror.com/not-all-lcd-panels-are-created-equal/
-
-## The F5 Key Is Not a Build Process
-  https://blog.codinghorror.com/the-f5-key-is-not-a-build-process/
 
 ## Embracing Languages Inside Languages
   https://blog.codinghorror.com/embracing-languages-inside-languages/
@@ -1468,26 +1423,17 @@
 ## A Lesson in Control Simplicity
   https://blog.codinghorror.com/a-lesson-in-control-simplicity/
 
-## Geek Diet and Exercise Programs
-  https://blog.codinghorror.com/geek-diet-and-exercise-programs/
-
 ## YouTube: The Big Copyright Lie
   https://blog.codinghorror.com/youtube-the-big-copyright-lie/
 
 ## Do Not Buy This Book
   https://blog.codinghorror.com/do-not-buy-this-book/
 
-## Revisiting Programming Fonts
-  https://blog.codinghorror.com/revisiting-programming-fonts/
-
 ## Software Branching and Parallel Universes
   https://blog.codinghorror.com/software-branching-and-parallel-universes/
 
 ## Pushing Operating System Limits
   https://blog.codinghorror.com/pushing-operating-system-limits/
-
-## Computer Display Calibration 101
-  https://blog.codinghorror.com/computer-display-calibration-101/
 
 ## Why Are Web Uploads So Painful?
   https://blog.codinghorror.com/why-are-web-uploads-so-painful/
@@ -1500,12 +1446,6 @@
 
 ## Steve McConnell in the Doghouse
   https://blog.codinghorror.com/steve-mcconnell-in-the-doghouse/
-
-## LCD Monitor Arms
-  https://blog.codinghorror.com/lcd-monitor-arms/
-
-## On Expose, Flip3D, and Switcher
-  https://blog.codinghorror.com/on-expos-flip3d-and-switcher/
 
 ## Everything Is Fast For Small n
   https://blog.codinghorror.com/everything-is-fast-for-small-n/
@@ -1522,9 +1462,6 @@
 ## Classic Computer Science Puzzles
   https://blog.codinghorror.com/classic-computer-science-puzzles/
 
-## Gigabyte: Decimal vs. Binary
-  https://blog.codinghorror.com/gigabyte-decimal-vs-binary/
-
 ## Rainbow Hash Cracking
   https://blog.codinghorror.com/rainbow-hash-cracking/
 
@@ -1534,14 +1471,8 @@
 ## The Peanut Butter Theory of User Interface Design
   https://blog.codinghorror.com/the-peanut-butter-theory-of-user-interface-design/
 
-## Online Newspapers, Offline
-  https://blog.codinghorror.com/online-newspapers-offline/
-
 ## Keeping The Menu Simple
   https://blog.codinghorror.com/keeping-the-menu-simple/
-
-## Choosing Dual or Quad Core
-  https://blog.codinghorror.com/choosing-dual-or-quad-core/
 
 ## Falling Into The Pit of Success
   https://blog.codinghorror.com/falling-into-the-pit-of-success/
@@ -1581,12 +1512,6 @@
 
 ## Trojans, Rootkits, and the Culture of Fear
   https://blog.codinghorror.com/trojans-rootkits-and-the-culture-of-fear/
-
-## Dell XPS M1330 Review
-  https://blog.codinghorror.com/dell-xps-m1330-review/
-
-## The Large Display Paradox
-  https://blog.codinghorror.com/the-large-display-paradox/
 
 ## Catalogs of Data Visualization
   https://blog.codinghorror.com/catalogs-of-data-visualization/
@@ -1702,15 +1627,6 @@
 ## Incremental Feature Search in Applications
   https://blog.codinghorror.com/incremental-feature-search-in-applications/
 
-## Where Are The High Resolution Displays?
-  https://blog.codinghorror.com/where-are-the-high-resolution-displays/
-
-## Font Rendering: Respecting The Pixel Grid
-  https://blog.codinghorror.com/font-rendering-respecting-the-pixel-grid/
-
-## What's Wrong With Apple's Font Rendering?
-  https://blog.codinghorror.com/whats-wrong-with-apples-font-rendering/
-
 ## Who Killed the Desktop Application?
   https://blog.codinghorror.com/who-killed-the-desktop-application/
 
@@ -1741,17 +1657,8 @@
 ## How to Get Rich Programming
   https://blog.codinghorror.com/how-to-get-rich-programming/
 
-## Upgrading to a High Efficiency Power Supply
-  https://blog.codinghorror.com/upgrading-to-a-high-efficiency-power-supply/
-
-## The End of the &quot;Microsoft Tax&quot;
-  https://blog.codinghorror.com/the-end-of-the-microsoft-tax/
-
 ## JavaScript: The Lingua Franca of the Web
   https://blog.codinghorror.com/javascript-the-lingua-franca-of-the-web/
-
-## Productivity Tip: Upgrade Your Pentium 4
-  https://blog.codinghorror.com/productivity-tip-upgrade-your-pentium-4/
 
 ## Reducing User Interface Friction
   https://blog.codinghorror.com/reducing-user-interface-friction/
@@ -1761,12 +1668,6 @@
 
 ## Designing Interactions at IDEO
   https://blog.codinghorror.com/designing-interactions-at-ideo/
-
-## Bill Gates and DONKEY.BAS
-  https://blog.codinghorror.com/bill-gates-and-donkey-bas/
-
-## C# and the Compilation Tax
-  https://blog.codinghorror.com/c-and-the-compilation-tax/
 
 ## This Site May Harm Your Computer
   https://blog.codinghorror.com/this-site-may-harm-your-computer/
@@ -2032,26 +1933,8 @@
 ## The Sugar UI
   https://blog.codinghorror.com/the-sugar-ui/
 
-## If Loving Computers is Wrong, I Don't Want to Be Right
-  https://blog.codinghorror.com/if-loving-computers-is-wrong-i-dont-want-to-be-right/
-
-## Keeping Time on the PC
-  https://blog.codinghorror.com/keeping-time-on-the-pc/
-
 ## On the Use of Cliches
   https://blog.codinghorror.com/on-the-use-of-cliches/
-
-## Is your PC capable of Hi-Def?
-  https://blog.codinghorror.com/is-your-pc-capable-of-hi-def/
-
-## Will your next computer monitor be a HDTV?
-  https://blog.codinghorror.com/will-your-next-computer-monitor-be-a-hdtv/
-
-## Did YouTube Cut the Gordian Knot of Video Codecs?
-  https://blog.codinghorror.com/did-youtube-cut-the-gordian-knot-of-video-codecs/
-
-## Logging in with the Keyboard
-  https://blog.codinghorror.com/logging-in-with-the-keyboard/
 
 ## Assertiveness for Software Developers
   https://blog.codinghorror.com/assertiveness-for-software-developers/
@@ -2065,17 +1948,8 @@
 ## Code Tells You How, Comments Tell You Why
   https://blog.codinghorror.com/code-tells-you-how-comments-tell-you-why/
 
-## Next-Gen DVD: Are Those Additional Pixels Worth Your Money?
-  https://blog.codinghorror.com/next-gen-dvd-are-those-additional-pixels-worth-your-money/
-
-## High-Definition Video on the PC
-  https://blog.codinghorror.com/high-definition-video-on-the-pc/
-
 ## Percentage of Chart Which Resembles Ms. Pac-Man
   https://blog.codinghorror.com/percentage-of-chart-which-resembles-ms-pac-man/
-
-## LCD Progress
-  https://blog.codinghorror.com/lcd-progress/
 
 ## Is Your Database Under Version Control?
   https://blog.codinghorror.com/is-your-database-under-version-control/
@@ -2085,9 +1959,6 @@
 
 ## Moore's Law in Practical Terms
   https://blog.codinghorror.com/moores-law-in-practical-terms/
-
-## Joining The Prestigious Three Monitor Club
-  https://blog.codinghorror.com/joining-the-prestigious-three-monitor-club/
 
 ## Reading with Edward Tufte
   https://blog.codinghorror.com/reading-with-edward-tufte/
@@ -2163,9 +2034,6 @@
 
 ## The Single Most Important Virtual Machine Performance Tip
   https://blog.codinghorror.com/the-single-most-important-virtual-machine-performance-tip/
-
-## The Build Server: Your Project's Heart Monitor
-  https://blog.codinghorror.com/the-build-server-your-projects-heart-monitor/
 
 ## CAPTCHA Effectiveness
   https://blog.codinghorror.com/captcha-effectiveness/
@@ -2307,9 +2175,6 @@
 
 ## DirectX Version Number Abuse
   https://blog.codinghorror.com/directx-version-number-abuse/
-
-## Video Card Power Consumption
-  https://blog.codinghorror.com/video-card-power-consumption/
 
 ## The Power of &quot;View Source&quot;
   https://blog.codinghorror.com/the-power-of-view-source/
@@ -2599,8 +2464,6 @@
 ## It's Better Than Nothing
   https://blog.codinghorror.com/its-better-than-nothing/
 
-## (Very) Basic Textbox Keyboard Shortcuts
-  https://blog.codinghorror.com/very-basic-textbox-keyboard-shortcuts/
 
 ## How Much Power Does My Laptop Really Use?
   https://blog.codinghorror.com/how-much-power-does-my-laptop-really-use/
@@ -2695,9 +2558,6 @@
 ## Snippet Enumeration Macro
   https://blog.codinghorror.com/snippet-enumeration-macro/
 
-## Making a Video Game out of your code
-  https://blog.codinghorror.com/making-a-video-game-out-of-your-code/
-
 ## Quick and Dirty Internet Connection Troubleshooting
   https://blog.codinghorror.com/quick-and-dirty-internet-connection-troubleshooting/
 
@@ -2709,9 +2569,6 @@
 
 ## Sometimes a Word is Worth a Thousand Icons
   https://blog.codinghorror.com/sometimes-a-word-is-worth-a-thousand-icons/
-
-## C# Snippet Parity
-  https://blog.codinghorror.com/c-snippet-parity/
 
 ## Will Mouse Gestures Ever Be Mainstream?
   https://blog.codinghorror.com/will-mouse-gestures-ever-be-mainstream/
@@ -3004,9 +2861,6 @@
 ## ALT+TAB Extreme*
   https://blog.codinghorror.com/alttab-extreme/
 
-## C# implementation of ASCII85
-  https://blog.codinghorror.com/c-implementation-of-ascii85/
-
 ## Equipping our ASCII Armor
   https://blog.codinghorror.com/equipping-our-ascii-armor/
 
@@ -3264,9 +3118,6 @@
 
 ## The Game Controller Family Tree
   https://blog.codinghorror.com/the-game-controller-family-tree/
-
-## Alternative Keyboarding
-  https://blog.codinghorror.com/alternative-keyboarding/
 
 ## Are Design Patterns How Languages Evolve?
   https://blog.codinghorror.com/are-design-patterns-how-languages-evolve/
